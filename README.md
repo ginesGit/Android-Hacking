@@ -1,6 +1,6 @@
 Android APK Backdoor Injection – Writeup de laboratorio
-> **⚠️ Disclaimer:** Este proyecto es una práctica académica de ciberseguridad realizada en un entorno de laboratorio controlado, sobre dispositivos propios y con fines exclusivamente educativos. No se ha comprometido ningún dispositivo de terceros. Reproducir estas técnicas contra sistemas ajenos sin autorización expresa es ilegal.
-TL;DR
+> **Disclaimer:** Este proyecto es una práctica académica de ciberseguridad realizada en un entorno de laboratorio controlado, sobre dispositivos propios y con fines exclusivamente educativos. No se ha comprometido ningún dispositivo de terceros. Reproducir estas técnicas contra sistemas ajenos sin autorización expresa es ilegal.
+
 Se toma una aplicación Android legítima (una calculadora), se le inyecta un payload de Meterpreter mediante ingeniería inversa de su código smali, y se consigue una reverse shell completa contra un Samsung Galaxy S9 con Android 10, todo sin alterar la apariencia ni el funcionamiento visible de la app.
 Índice
 Objetivo
