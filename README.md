@@ -107,7 +107,7 @@ Permisos	Manifest con permisos inyectados	![Permisos](screenshots/04_manifest_pe
 Instalación	App instalándose en el S9	![Instalación](screenshots/05_instalacion_s9.png)
 Sesión Meterpreter	Conexión establecida	![Meterpreter](screenshots/06_meterpreter_session.png)
 Post-explotación	sysinfo y shell	![Post-explotación](screenshots/07_post_explotacion.png)
-> Sustituye los nombres de archivo por los reales de tus capturas.
+
 Referencias
 Metasploit Framework
 apktool
